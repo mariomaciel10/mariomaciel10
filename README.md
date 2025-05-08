@@ -35,8 +35,8 @@ Ainda tem várias outras coisinhas que não lembro, então é só isso por enqua
 Eu não sou muito de interagir ou fazer postagens em redes sociais, e agora estou tentando fe esforçar nos estudos.
 <!--Seja pra conversar, tirar dúvidas, reclamar ou até mesmo chamar pra uma jogatina, é só chamar.-->
 <div style="display:inline_block">
-  <a href="https://www.instagram.com/sassan_dust/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
-  <a href="mailto:samuelpatriciosantos311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/piedromario7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
+  <a href="mailto:piedromario7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="https://discord.com/users/563871206269255680/" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/563871206269255680?style=for-the-badge&theme=discord-inverted" target=" _blank"></a>-->
 </div>
 <!-- <img src="https://discordapp.com/api/guilds/932906923236401182/widget.png?style=banner2" alt="Discord Banner 1"/> -->
