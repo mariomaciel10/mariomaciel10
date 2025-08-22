@@ -51,3 +51,4 @@ Eu não sou muito de interagir ou fazer postagens em redes sociais, e agora esto
 <!--![Snake animation](https://github.com/mariomaciel10/mariomaciel10/blob/output/python_so_que_azul_e_maluco.svg)
 na vdd é amarelo :c--></div>
 <img align="center" alt="" height="60" width="60" src="https://www.youtube.com/shorts/ZkN0LdB4iAQ?feature=share">
+github-contribution-grid-snake.svg
