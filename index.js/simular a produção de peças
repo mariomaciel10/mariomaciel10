@@ -1,0 +1,55 @@
+// Antes de iniciar, instale o prompt-sync para entrada de dados e o jest para testar
+// Comando: npm i prompt-sync; npm i -D jest
+
+// CRIE UMA LÓGICA ABAIXO
+
+/*let dias = 1
+let continuar
+let totalGeral = 0
+let resumo = ""
+
+let dia = 0
+let producao1 = 0
+let producao2 = 0
+let producao3 = 0
+let producao4 = 0
+let producao5 = 0
+let meta 
+let continuar 
+let total
+ 
+*/
+let days = 1 // Inicializa o contador de dias
+let keep
+let total = 0 //Total geral de peças produzidas
+let resumo = "" //resumo dos dias
+
+do {
+    let meta = parseInt(prompt("Quantas peças devem ser produzidas?"))
+    let parts = 0 // contador de peças produzidas no dia
+
+//produz peças ate alcançar a meta  
+    while (parts < meta) {
+        parts++
+        console.log(`Peças ${parts} produzida com sucesso.`)
+    }
+
+    total += parts
+
+    if (parts === meta) {
+        console.log(`Meta alcançada!`)
+
+    } else {
+        console.log(`Meta não alcançada.`)
+    }
+   console.log(`Total geral :${total}`)
+   //resumo das produções do dia 
+    resumo += ` Resumo dos dias ${days} / Dia ${days} ${parts} peça(s) produzida(s) com sucesso.\n`
+    days ++
+    // loop, se o usuário deseja simular outro turno
+    keep = prompt(`Deseja simular outro turno? (S/N)`).toUpperCase()
+} while (keep === "S")
+
+    console.log(resumo)//resumo completo dos dias
+    console.log(`Total :${total}`)
+    console.log("Encerrando sistema de produção...")
